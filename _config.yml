@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Jiayi Wang"
 
 
 
@@ -40,7 +40,7 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
+    username: wangjiayi0131
     url: https://github.com/wangjiayi0131
     desc: Fork me on GitHub
     share: false
