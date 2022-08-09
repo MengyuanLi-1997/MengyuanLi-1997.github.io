@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+<div class="about">
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108085250-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -18,3 +19,4 @@ I am currently a senior economist at the Federal Reserve Board. I also enjoy tea
 <br>
 Download my <a href="https://github.com/wangjiayi0131/wangjiayi0131.github.io/raw/master/CV.pdf">CV</a><br>
 <br>
+</div>
