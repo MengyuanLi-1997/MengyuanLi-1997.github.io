@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 <div class="about">
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108085250-1"></script>
