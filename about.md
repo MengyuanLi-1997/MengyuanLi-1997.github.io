@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![Image text](https://raw.githubusercontent.com/wangjiayi0131/wangjiayi0131.github.io/master/aboutme.jpg){:width="282px";height="360px"}
+![Image text-w70](https://raw.githubusercontent.com/wangjiayi0131/wangjiayi0131.github.io/master/aboutme.jpg)
 
 
 <br>
