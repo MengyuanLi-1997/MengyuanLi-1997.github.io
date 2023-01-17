@@ -1,16 +1,16 @@
 
 # Site settings
-title: Jiayi Wang
-name: Jiayi Wang
-subtitle:  MEM Student at Dartmouth College
-email: jiayi.wang.th@dartmouth.edu
+title: Mengyuan Li
+name: Mengyuan Li
+subtitle:  PhD Student at TUDelft
+email: mli10@tudelft.nl
 description: >
    
 baseurl: ""
-url: "https://wangjiayi0131.github.io/"
-github_username:  wangjiayi0131
-disqus_baseurl: "https://wangjiayi0131.github.io/"
-disqus_shortname: https-wangjiayi0131-github-io
+url: "https://uniquelmy.github.io/MengyuanLi.github.io/"
+github_username:  uniquelmy
+disqus_baseurl: "https://uniquelmy.github.io/MengyuanLi.github.io/"
+disqus_shortname: https-uniquelmy-github-io-MengyuanLi-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Jiayi Wang"
+      author: "Mengyuan Li"
 
 
 
@@ -38,16 +38,16 @@ gems:
 
 
 social:
-  - name: GitHub
-    icon: github
-    username: wangjiayi0131
-    url: https://github.com/wangjiayi0131
-    desc: Fork me on GitHub
+  - name: twitter
+    icon: twitter
+    username: Mengyuan Li
+    url: https://twitter.com/lmngyun59829024
+    desc: Connect with me on twitter
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Jiayi Wang
-    url: https://www.linkedin.com/in/jiayiwang0131
+    username: Mengyuan Li
+    url: https://www.linkedin.com/in/%E6%A2%A6%E5%9B%AD-%E6%9D%8E-4934b7262/
     desc: Connect with me on LinkedIn
     share: true
