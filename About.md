@@ -7,7 +7,7 @@ permalink: /About/
 <p style="text-align:justify">
   
 <strong>Contact Information</strong><br>
-Email:mli10@tudelft.nl; uniquelmy@163.com<br>
+Email:m.li-11@tudelft.nl; uniquelmy@163.com<br>
 Address:Van Mourik Broekmanweg 6, Delft, 2628 XE<br>
 WeChat/QQ:864143554<br>
 <br>
